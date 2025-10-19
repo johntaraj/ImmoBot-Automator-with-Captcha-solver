@@ -1,0 +1,8 @@
+PySide6
+selenium
+beautifulsoup4
+torch
+torchvision
+opencv-python-headless
+numpy
+pillow

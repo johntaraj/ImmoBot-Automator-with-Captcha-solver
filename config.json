@@ -1,0 +1,28 @@
+{
+    "form_data": {
+        "salutation": "Herr",
+        "firstName": "John",
+        "lastName": "Musterman",
+        "emailAddress": "john.musterman@gmail.com",
+        "phoneNumber": "+1234567890",
+        "street": "Musterstraße",
+        "houseNumber": "2",
+        "postcode": "12345",
+        "city": "Berlin",
+        "moveInDateType": "ab sofort",
+        "numberOfPersons": "Einpersonenhaushalt",
+        "employmentRelationship": "Student:in",
+        "income": "unter 1.000 €",
+        "applicationPackageCompleted": "Vorhanden",
+        "numberOfAdults": "1",
+        "numberOfKids": "0",
+        "incomeAmount": "1.400",
+        "hasPets": "Nein",
+        "employmentStatus": "Unbefristet",
+        "forCommercialPurposes": "Nein",
+        "rentArrears": "Nein",
+        "insolvencyProcess": "Nein",
+        "smoker": "Nein"
+    },
+    "cover_letter": "Sehr geehrte Damen und Herren, mein Name ist John Musterman, ich bin 26 Jahre alt und studiere derzeit Informatik (M.Sc) an der TU Berlin. Ich arbeite als Werkstudent bei der Mustermedia, mit stabilem Einkommen und kann mir die Wohnung ohne Probleme leisten. Ich bin ruhig, zuverlässig, rauche nicht und habe keine Haustiere. Ich bin sehr an der Wohnung interessiert, da sie ideal zu meinen Vorstellungen von einem langfristigen und ruhigen Zuhause passt. Ich würde mich sehr über eine Rückmeldung und eine Einladung zur Besichtigung freuen. Mit freundlichen Grüßen John Musterman"
+}
