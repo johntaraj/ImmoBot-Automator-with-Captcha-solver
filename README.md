@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/df178d38-94cf-4cfb-b6be-2ab55f6c9c87
 - `gui.py` — GUI application
 - `runner.py` — Launches the bot with your config and selected browser
 - `imo.py` — Selenium automation
-- `prediction.py` — CAPTCHA solver
+- `prediction.py` — CAPTCHA solver (to get the local model "Checkpoint.pth" for solving the captchas check out my other repo https://github.com/johntaraj/pytorch-captcha-recognizer-notebook ) 
 - `style.qss` — GUI styles
 - `assets/` — UI assets (spinner/info icons)
 - `data/` — App data files written at runtime
@@ -45,5 +45,6 @@ python gui.py
 - Click "Connect & Start Bot"
 
 The GUI will save your form details to `config.json` and show logs as the bot operates.
+
 
 
