@@ -18,7 +18,6 @@ https://github.com/user-attachments/assets/df178d38-94cf-4cfb-b6be-2ab55f6c9c87
 
 ## Contents
 
-This folder contains a minimal, ready-to-publish copy of the app:
 
 - `gui.py` — GUI application
 - `runner.py` — Launches the bot with your config and selected browser
@@ -46,4 +45,5 @@ python gui.py
 - Click "Connect & Start Bot"
 
 The GUI will save your form details to `config.json` and show logs as the bot operates.
+
 
