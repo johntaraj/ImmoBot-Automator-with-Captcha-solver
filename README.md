@@ -4,6 +4,8 @@ A Windows-friendly GUI app that automates contacting new listings on ImmoScout24
 
 > Status: Personal project. Use responsibly and in accordance with ImmoScout24’s terms. This tool interacts with a real website—be considerate with rates and volume.
 
+https://github.com/user-attachments/assets/df178d38-94cf-4cfb-b6be-2ab55f6c9c87
+
 ## Features
 
 - Simple GUI (PySide6)
@@ -44,3 +46,4 @@ python gui.py
 - Click "Connect & Start Bot"
 
 The GUI will save your form details to `config.json` and show logs as the bot operates.
+
